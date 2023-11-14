@@ -2,6 +2,8 @@
 A web crawler to collect product name and description from Jike
 
 # Description
+即刻-产品发布会页面爬虫
+
 首先，因为这个网页有反爬+动态加载，而且它本身就不能显示到底有几个产品，即使我在手机上看，都只能一页看十几个，然后手动点刷新才会出新产品（还有重复），所以解决方案如下：
 
 每隔一段时间（比如一周、一个月）你可以手动跑一下这个程序：
